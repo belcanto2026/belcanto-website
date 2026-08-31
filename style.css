@@ -1,12 +1,6 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>Centro Studi del Belcanto｜ベルカント研究会</title>
 
-  <style>
+ 
     body {
       margin: 0;
       font-family: "Hiragino Mincho ProN", "Yu Mincho", serif;
@@ -103,83 +97,3 @@
         font-size: 17px;
       }
     }
-  </style>
-</head>
-
-<body>
-
-<header>
-  <h1>Centro Studi del Belcanto</h1>
-  <div class="italy"></div>
-  <h2>ベルカント研究会</h2>
-</header>
-
-<main>
-
-  <section class="intro">
-    <p>
-      ベルカント――「美しい歌」。
-    </p>
-
-    <p>
-      イタリア・オペラに息づく歌唱芸術を学び、<br>
-      その魅力をともに探究するための研究会です。
-    </p>
-  </section>
-
-  <section>
-    <h3>Centro Studi del Belcanto について</h3>
-
-    <p>
-      Centro Studi del Belcanto（ベルカント研究会）は、
-      ベルカント唱法とイタリア・オペラを中心に、
-      歌唱・音楽・言葉・作品について学び、
-      考える場として活動しています。
-    </p>
-
-    <p>
-      声と音楽に向き合いながら、
-      ベルカントの伝統とその魅力を、
-      さまざまな角度から探っていきます。
-    </p>
-  </section>
-
-  <section>
-    <h3>活動について</h3>
-
-    <p>
-      ベルカント唱法やイタリア・オペラに関する研究、
-      勉強会、講座などを通して、
-      歌うこと、聴くこと、そして作品を深く知ることを
-      大切にしていきます。
-    </p>
-
-    <p>
-      今後の活動やお知らせについては、
-      このページで随時ご案内いたします。
-    </p>
-  </section>
-
-  <section class="contact">
-    <h3>お問い合わせ</h3>
-
-    <p>
-      Centro Studi del Belcanto<br>
-      ベルカント研究会
-    </p>
-
-    <p>
-      <a href="mailto:centrostudibelcanto@gmail.com">
-        centrostudibelcanto@gmail.com
-      </a>
-    </p>
-  </section>
-
-</main>
-
-<footer>
-  © Centro Studi del Belcanto
-</footer>
-
-</body>
-</html>
