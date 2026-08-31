@@ -96,4 +96,9 @@
       header h2 {
         font-size: 17px;
       }
+  .hero img {
+    width: 85%;
+    margin: 0 auto;
+    display: block;
+  }     
     }
