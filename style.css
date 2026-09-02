@@ -147,9 +147,10 @@ h3{
  text-align:left;
 }
 .members {
- keft-align: left !important
+  text-align: left !important;
+  margin-top: 40px;
 }
-.sicu h3 {
+ .sicu h3 {
   margin-top: 32px;
   margin-bottom: 16px;
 }
