@@ -171,17 +171,12 @@ h3{
 main > section + section {
   margin-top: 40px;
 }
-
 .members-section {
-  padding-top: 100px;
+    padding-top: 50px;
 }
 
 @media (max-width: 600px) {
-  main > section + section {
-    margin-top: 0;
-  }
-
-  .members-section {
-    padding-top: 20px;
-  }
+    .members-section {
+        padding-top: 20px;
+    }
 }
