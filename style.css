@@ -29,8 +29,10 @@
       font-weight: normal;
       letter-spacing: 4px;
     }
-
-    .italy {
+h3 {
+    font-size: 16px;
+}   
+.italy {
      
       height: 4px;
       margin: 25px auto;
