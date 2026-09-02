@@ -139,10 +139,11 @@ h3 {
     line-height: 1.8;
   }
 }
-h３{
- text-align:left;
+h3{
+  text-align:left;
+  margin-top: 1.8em;
 }
-.sicu { 
+ .sicu { 
  text-align:left;
 }
 .members {
