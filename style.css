@@ -181,13 +181,13 @@ main > section + section {
     }
 }
 main > .members-section {
-    margin-top: 80px !important;
+    margin-top: 100px !important;
     padding-top: 0 !important;
 }
 
 @media (max-width: 600px) {
     main > .members-section {
-        margin-top: 25px !important;
+        margin-top: 35px !important;
         padding-top: 0 !important;
     }
 }
